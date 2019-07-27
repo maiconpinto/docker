@@ -1,2 +1,3 @@
 # docker-compose
-My list of docker-compose.yml
+
+Repositório criado para meus estudos sobre Docker e Docker Compose.

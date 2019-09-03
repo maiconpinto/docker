@@ -1,0 +1,5 @@
+FROM maiconpinto/cakephp:0.2
+
+WORKDIR /cakephp
+
+CMD ["composer", "create-project", "cakephp/app"]
